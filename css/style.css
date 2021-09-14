@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    margin-top: 50px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 60px;
+    color: #66BFBF;
+    line-height: 2;
+}
+.caption{
+    font-size: 1.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 23px;
+    color: tomato;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #11999E;
+    padding: 23px;
+}
+p{
+    font-family: 'Baloo 2', cursive;
+    font-size: 23px;
+    
+}
+.dev{
+    text-decoration: underline;
+}
+
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 330px;
+    left: 300px;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 400px;
+}
+.footer-link{
+    color: #11999E;
+}
+.btn{
+    color: white;
+    background-color: lightskyblue;
+    margin: 23px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 30px;
+}
+.profile{
+    width: 50%;
+    margin: 60px auto;
+}
+.skill-row{
+    width: 60%;
+    margin: 60px auto;
+}
+.virtual-assistant{
+    float: left;
+    margin-right: 30px;
+}
+.web-design{
+    float: right;
+    margin-right: 30px;
+}
+.text{
+    text-align: left;
+}
+.skills{
+    padding: 23px;
+    background-color: #EAF6F6;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+
+}
+.contact-me{
+    padding: 53px;
+    
+}
+.bottom-container{
+    background-color: lightskyblue;
+    padding: 23px;
+}
+.pf{
+    color: white;
+}
+.blue{
+    color: #11999E;
+}
+.mahakim{
+    border-radius: 100%;
+}
